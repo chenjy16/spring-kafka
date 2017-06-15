@@ -1,0 +1,4 @@
+#kafka related properties
+kafka: 
+  bootstrap: 
+    servers: 192.168.1.235:9097,192.168.1.235:9098,192.168.1.235:9099
